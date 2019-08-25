@@ -12,3 +12,9 @@ Reference:
 
 Electrical Machinery Fundaments by Stephen J. Chapman. 
 Example 2-2
+
+**Note**
+
+Reader can ask for any help regarding this moodel and any suggestion for correction will be appreciated.
+
+Thanks
